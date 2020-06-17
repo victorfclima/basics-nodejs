@@ -1,4 +1,4 @@
-<h1>:open_file_folder: Challenge #1 - Basics NodeJS - Rocketseat bootcamp GoStack</h1>
+<h1>:open_file_folder: Challenge #2 - Basics NodeJS - Rocketseat bootcamp GoStack</h1>
 
 The purpose of this project is to complete the #1 Challenge of the Rocketseat GoStack 12 Bootcamp! https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-nodejs
 
