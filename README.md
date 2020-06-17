@@ -1,6 +1,6 @@
-<h1>:open_file_folder: Challenge #1 - Basics NodeJS - Rocketseat bootcamp GoStack</h1>
+<h1>:open_file_folder: Challenge #2 - Basics NodeJS - Rocketseat bootcamp GoStack</h1>
 
-The purpose of this project is to complete the #1 Challenge of the Rocketseat GoStack 12 Bootcamp! https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-nodejs
+The purpose of this project is to complete the #2 Challenge of the Rocketseat GoStack 12 Bootcamp! https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-conceitos-nodejs
 
 <h2>:computer: What is supposed to do?</h2>
 This challenges consists in create a basic api with NodeJs, capable of pass in the following tasks:
